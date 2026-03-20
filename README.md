@@ -1,5 +1,7 @@
 # Netflix_data_analysis(interactive dashboard using power bi)
 
+![Netflix_dashboard](https://github.com/veerv8023-cmyk/Netflix_data_analysis/blob/main/netflix.screenshot.png)
+
 
 # Power BI Data Analysis Project
 
